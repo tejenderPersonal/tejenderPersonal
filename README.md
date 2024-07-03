@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Tejender Mohan
+- 👀 I’m interested in Salesforce Development.
+- 🌱 I’m currently learning Algorithms. 
+- 💞️ I’m looking to collaborate on Salesforce Projects (Apex, LWC, Aura, Admin Tasks)
+- 📫 How to reach me tejendernit369@gmail.com
+- 😄 Pronouns: He/Him
